@@ -1,6 +1,6 @@
 cabin managemnet website using react with react query (tanStack) for the frontend and supabase for the backend.
-NOTE: go to ![the-wild-oasis-backend]([https://github.com/user-attachments/assets/eeda7278-d025-4373-85c4-d9b6ac56e3b5](https://github.com/hamzi-haidar/the-wild-oasis-backend.))
- to use the backend https://github.com/hamzi-haidar/the-wild-oasis-backend.
+NOTE:to use the backend go to https://github.com/hamzi-haidar/the-wild-oasis-backend.
+
 
 this website main features:
 
