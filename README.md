@@ -1,5 +1,5 @@
 cabin managemnet website using react with react query (tanStack) for the frontend and supabase for the backend.
-NOTE: supabase might pause the backend so the website might stop working please contact me if you want to clone it and try it so i can unpause the backend.
+NOTE: this have a backend go to the-wild-oasis-backend to use it https://github.com/hamzi-haidar/the-wild-oasis-backend.
 
 this website main features:
 
