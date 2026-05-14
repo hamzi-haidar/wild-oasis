@@ -29,6 +29,7 @@ const queryClient = new QueryClient({
   },
 });
 
+const x = 5;
 // this is to fix the warning error in the console for styled components v6
 function shouldForwardProp(propName, target) {
   if (typeof target === "string") {
