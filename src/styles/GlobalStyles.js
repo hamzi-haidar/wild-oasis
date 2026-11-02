@@ -123,12 +123,14 @@ const GlobalStyles = createGlobalStyle`
   padding: 0;
   margin: 0;
 
-  /* Creating animations for dark mode */
-  transition: background-color 0.3s, border 0.3s;
+  /* Creating animations for dark mode (comment it if a background color freeze or delay occurs) */
+ /* transition: background-color 0.3s ease, border-color 0.3s ease;     */
+ 
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 62.5%; 
+
 }
 
 body {
